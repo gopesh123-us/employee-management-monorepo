@@ -1,0 +1,6 @@
+[submodule "employee-management-frontend"]
+	path = employee-management-frontend
+	url = https://github.com/gopesh123-us/employee-management-system-frontend.git
+[submodule "employee-management-backend"]
+	path = employee-management-backend
+	url = https://github.com/gopesh123-us/13-employee-management-backend-app.git
