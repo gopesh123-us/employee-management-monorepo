@@ -1,6 +1,6 @@
 # This is a mono repo of Employee Management System - Full Stack
 
-## Angular 19 and Spring Boot
+## Angular 19 and Spring Boot 3.x
 
 - frontend is angular
 - backend is springboot
